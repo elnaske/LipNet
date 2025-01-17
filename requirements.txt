@@ -1,0 +1,10 @@
+torch
+cv2
+dlib
+scikit-learn
+numpy
+os
+glob
+requests
+zipfile
+tqdm
